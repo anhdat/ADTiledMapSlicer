@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage         = "http://anhd.at"
   s.license          = 'MIT'
   s.author           = { "Dat Truong" => "mr.anhdat@gmail.com" }
-  s.source           = { :git => "http://EXAMPLE/NAME.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/anhdat/ADTiledMapSlicer.git", :tag => 0.1 }
 
   s.platform     = :ios, '5.0'
   s.requires_arc = true
