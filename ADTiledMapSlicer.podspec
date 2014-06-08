@@ -6,7 +6,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = "ADTiledMapSlicer"
-  s.version          = File.read('0.1')
+  s.version          = '0.1'
   s.summary          = "ADTiledMapSlicer is the image slicer to use with NATiledMap."
   s.description      = <<-DESC
                        ADTiledMapSlicer prepare image in different zoom level images to use with NATiledImageMapView or ARTiledImageView
@@ -19,8 +19,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '5.0'
   s.requires_arc = true
 
-  s.source_files = 'Classes'
-  s.resources = 'Assets/*.png'
-
+  s.source_files = 'Classes/ios/*.{h,m}'
   s.ios.exclude_files = 'Classes/osx'
 end
