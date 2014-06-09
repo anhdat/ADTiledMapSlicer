@@ -6,11 +6,11 @@
 
 ## Usage
 
-Use ADTiledMapSlicer to prepare images for ARTiledImage at https://github.com/dblock/ARTiledImageView or NAMapTiledView in NAMapKit at https://github.com/neilang/NAMapKit
+Use ADTiledMapSlicer to prepare images for [ARTiledImage](https://github.com/dblock/ARTiledImageView) or [NAMapTiledView in NAMapKit](https://github.com/neilang/NAMapKit)
 
 Just copy or use cocoapod the import ADTiledMapSlicer.h to start using the convenient function.
 
-Any pull requests is welcome.
+Any pull request is welcome.
 
 ## Requirements
 
