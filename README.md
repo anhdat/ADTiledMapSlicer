@@ -6,7 +6,11 @@
 
 ## Usage
 
-To run the example project; clone the repo, and run `pod install` from the Example directory first.
+Use ADTiledMapSlicer to prepare images for ARTiledImage at https://github.com/dblock/ARTiledImageView or NAMapTiledView in NAMapKit at https://github.com/neilang/NAMapKit
+
+Just copy or use cocoapod the import ADTiledMapSlicer.h to start using the convenient function.
+
+Any pull requests is welcome.
 
 ## Requirements
 
